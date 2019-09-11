@@ -19,10 +19,13 @@ que esten aprendiendo sobre ML y tengan problemas con el ínlges.
  
 ## ¿Cómo correr el contenido del repositorio? 
 
-La mayoría de los archivos estan en la extencion .ipynb que es la extencion que usa
-**Jupiter Notebook** para manejar sus archivos, mas adelante hablaré sobre dicha herramienta,
+La mayoría de los archivos estan en la extencion .ipynb que   
+es la extencion que usa **Jupiter Notebook** para manejar sus archivos,  
+mas adelante hablaré sobre dicha herramienta,  
 para correr un .ipynb exiten varias opciones: 
 
-* Github permite ver el contenido de un .ipynb mas no editarlo desde la opcion de preview en el archivo
-* Google tiene una herramienta llamada *Google Colaboratory*, para correr y editar archivos .ipynb pero,  
-te obliga a cargar el archivo en *Google Drive*
+* Github permite ver el contenido de un .ipynb mas no editarlo   
+desde la opcion de preview en el archivo
+* Google tiene una herramienta llamada *Google Colaboratory*,  
+para correr y editar archivos .ipynb pero  
+obliga a cargar el archivo en *Google Drive*
