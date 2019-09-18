@@ -11,7 +11,7 @@ por tanto, cambie el enfoque del repositorio y lo centraré en las personas
 que esten aprendiendo sobre ML y tengan problemas con el ínlges.
 
 Pueden contactarme a traves de: 
-* [Linkeding](https://www.linkedin.com/in/cristian-david-gómez-román-5a0067142/edit/about/)
+* Perfil profecional en [Linkeding](https://www.linkedin.com/in/cristian-david-gómez-román-5a0067142/edit/about/)
 
 ## NOTAS
 
