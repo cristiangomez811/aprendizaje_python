@@ -10,6 +10,9 @@ este explicado en inglés cuando hay mucha mejor documenteción y bibliografía,
 por tanto, cambie el enfoque del repositorio y lo centraré en las personas   
 que esten aprendiendo sobre ML y tengan problemas con el ínlges.
 
+Pueden contactarme a traves de: 
+* ['Linkeding'](https://www.linkedin.com/in/cristian-david-gómez-román-5a0067142/edit/about/)
+
 ## NOTAS
 
  * Dado que estoy aprendiendo sobre el libro ['Hands on Machine Learning'](http://shop.oreilly.com/product/0636920142874.do)  
