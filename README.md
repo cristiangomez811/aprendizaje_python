@@ -3,7 +3,7 @@
 Este repositorio tiene todos los codigos y ejercicios de Machine Larning *(ML)*  
 que estoy realizando para aprender. En mi proceso de aprendizaje estoy siguiendo  
 el libro de O'reilly **'Hands on Machine Learning'**, así como recursos de visualización  
-y el libro **'Python Deep Learning del 2020' **.  
+y el libro **'Python Deep Learning del 2020'**.  
 Originalmente busque hacer de este repositorio un lugar para volver y re aprender cuando lo vea  
 necesario y ademas usarlo para enseñar a todo el que tenga interés  
 en aprender un poco sobre ML, mi error fué buscar que todo  
