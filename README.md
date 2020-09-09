@@ -12,12 +12,16 @@ por tanto, cambie el enfoque del repositorio y lo centraré en las personas
 que esten aprendiendo sobre ML y tengan problemas con el ínlges.
 
 Pueden contactarme a traves de: 
-* Perfil profecional en [Linkeding](https://www.linkedin.com/in/cristian-david-gómez-román-5a0067142/edit/about/)
+* Perfil profecional en [Linkeding](https://www.linkedin.com/in/cristian-david-gomez/)
 
 ## NOTAS
 
  * Dado que estoy aprendiendo sobre el libro ['Hands on Machine Learning'](http://shop.oreilly.com/product/0636920142874.do)  
  y mucho del contenido de este repositprio esta directamente inspirado en el libro
+ 
+ * En el repositorio se encuetra contenido de sitio web ['Python_Graph_Gallery'](https://python-graph-gallery.com/)
+ 
+ * En el repositorio se encuentra contenido del libro ['Python Deep Learning'](https://www.marcombo.com/python-deep-learning-9788426728289/) de la editorial marcombo
 
  * Todo lo estoy llevando en Python 3 ya que como programador es el que mejor manejo entre Python y R
  
