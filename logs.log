@@ -1,0 +1,84 @@
+2020-12-22 11:32:49,507; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2020-12-22 11:32:49,507; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 11:32:49,507; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-22 11:32:49,760; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.87E-01
+2020-12-22 11:35:01,569; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2020-12-22 11:35:01,569; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 11:35:01,569; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-22 11:35:01,813; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 5.34E-01
+2020-12-22 11:35:30,619; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 11:35:30,620; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-22 11:35:30,864; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 8.11E-01
+2020-12-22 11:35:44,088; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 11:35:44,090; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-22 11:35:44,347; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-22 11:35:49,724; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 11:35:49,725; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-22 11:35:49,983; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 4.33E-01
+2020-12-22 14:06:30,411; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2020-12-22 14:06:30,413; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:06:30,414; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:06:30,635; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 4.33E-01
+2020-12-22 14:06:34,332; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.321
+2020-12-22 14:06:47,578; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:06:47,579; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:06:47,797; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2020-12-22 14:06:51,745; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.321
+2020-12-22 14:07:14,945; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:07:14,945; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:07:15,171; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.31E-01
+2020-12-22 14:07:19,081; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.323
+2020-12-22 14:07:19,081; WARNING; nprophet; fit; Model has already been fitted. Re-fitting will produce different results.
+2020-12-22 14:07:23,193; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:07:23,194; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:07:23,404; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 5.34E-01
+2020-12-22 14:07:27,384; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.320
+2020-12-22 14:07:27,384; WARNING; nprophet; fit; Model has already been fitted. Re-fitting will produce different results.
+2020-12-22 14:07:31,665; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:07:31,666; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:07:31,901; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.31E-01
+2020-12-22 14:07:35,933; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.319
+2020-12-22 14:07:35,933; WARNING; nprophet; fit; Model has already been fitted. Re-fitting will produce different results.
+2020-12-22 14:08:20,117; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:08:20,119; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:08:20,342; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.31E-01
+2020-12-22 14:08:24,333; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.324
+2020-12-22 14:09:02,508; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:09:02,508; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:09:02,748; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-22 14:09:06,753; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.326
+2020-12-22 14:09:11,341; WARNING; nprophet; fit; Model has already been fitted. Re-fitting will produce different results.
+2020-12-22 14:09:15,756; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:09:15,756; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:09:15,990; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 6.58E-01
+2020-12-22 14:09:19,990; INFO; nprophet; _evaluate; Validation metrics:    SmoothL1Loss    MAE
+1         0.004  0.334
+2020-12-22 14:09:27,282; WARNING; nprophet; fit; Model has already been fitted. Re-fitting will produce different results.
+2020-12-22 14:10:29,206; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:10:29,207; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:10:29,471; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-22 14:11:00,101; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:11:00,102; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:11:00,309; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-22 14:11:05,956; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:11:05,956; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:11:06,173; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-22 14:11:10,434; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-22 14:11:10,434; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 27
+2020-12-22 14:11:10,669; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2020-12-23 13:50:08,813; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-23 13:50:08,814; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-23 13:50:09,042; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2020-12-23 13:50:15,526; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-23 13:50:15,527; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-23 13:50:15,734; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.00E+00
+2020-12-23 13:50:23,127; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 32
+2020-12-23 13:50:23,128; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 22
+2020-12-23 13:50:23,319; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E+00
